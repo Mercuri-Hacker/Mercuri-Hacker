@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my CMS Blog page.
-- 🌱 I’m currently learning NextJS and GraphQL CMS
+- 🔭 I’m currently working on my Portfolio site.
+- 🌱 I’m currently learning React.JS and Node.JS
 - 🤔 I’m looking for help with new concept for Job.
 - ⚡ Fun fact: That I am Civil Engineer and still unemploye.
 
